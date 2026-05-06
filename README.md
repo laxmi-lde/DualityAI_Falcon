@@ -1,5 +1,5 @@
 Offroad Semantic Scene Segmentation - Hackathon Report
-Team Name: CrazyUI
+Team Name: HellNah_Code
 Project: Desert Environment Semantic Segmentation using SegFormer
 Challenge: Duality AI's Offroad Autonomy Segmentation
 
